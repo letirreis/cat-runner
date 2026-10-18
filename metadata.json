@@ -1,0 +1,7 @@
+{
+  "name": "Cat Runner",
+  "description": "Auto-runner mobile de um dedo só: pule caixas, deslize sob móveis, dê botes em insetos e alcance o petisco supremo com 7 vidas!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
