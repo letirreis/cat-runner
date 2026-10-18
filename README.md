@@ -1,20 +1,14 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# Cat Runner
 
-# Run and deploy your AI Studio app
+Auto-runner mobile de um dedo só: pule caixas, deslize sob móveis, dê botes em insetos e alcance o petisco supremo com 7 vidas!
 
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/37b2df4d-38b0-495f-909f-33f8b20c1b6d
+Built with React + TypeScript + Vite. No API keys or backend required.
 
 ## Run Locally
 
-**Prerequisites:**  Node.js
-
+**Prerequisites:** Node.js
 
 1. Install dependencies:
    `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
+2. Run the app:
    `npm run dev`
